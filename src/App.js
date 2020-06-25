@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is the demo app for CI/CD via Netlify Updated Staging Environment
+          This is the demo app for CI/CD via Netlify build
         </p>
         <a
           className="App-link"
